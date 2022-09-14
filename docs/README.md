@@ -107,9 +107,7 @@ Reading the changelogs is a good way to keep up to date with the things Dear ImG
 
 ### Demo
 
-Calling the `ImGui::ShowDemoWindow()` function will create a demo window showcasing a variety of features and examples. The code is always available for reference in `imgui_demo.cpp`.
-
-![screenshot demo](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v167/v167-misc.png)
+Calling the `ImGui::ShowDemoWindow()` function will create a demo window showcasing a variety of features and examples. The code is always available for reference in `imgui_demo.cpp`. [Here's how te demo look](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v167/v167-misc.png).
 
 You should be able to build the examples from sources (tested on Windows/Mac/Linux). If you don't, let us know! If you want to have a quick look at some Dear ImGui features, you can download Windows binaries of the demo app here:
 - [imgui-demo-binaries-20220504.zip](https://www.dearimgui.org/binaries/imgui-demo-binaries-20220504.zip) (Windows, 1.88 WIP, built 2022/05/04, master) or [older binaries](https://www.dearimgui.org/binaries).
